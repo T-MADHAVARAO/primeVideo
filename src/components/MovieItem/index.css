@@ -1,0 +1,13 @@
+/* Write your CSS here */
+.eachImg {
+  width: 200px;
+  height: 160px;
+}
+.popup-container {
+  width: 400px;
+  padding: 10px;
+}
+.cont {
+  width: 600px;
+  padding: 10px;
+}
